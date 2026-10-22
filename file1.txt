@@ -4,3 +4,4 @@ this the merged line added
 =======
 A new line is added dheeraj
 >>>>>>> feature1
+hi
